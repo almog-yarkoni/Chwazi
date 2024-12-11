@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_game">התחל משחק</string>
+    <string name="select_a_category">בחר קטגוריה</string>
+    <string name="game_screen">מסך המשחק</string>
+    <string name="score_board">לוח תוצאות</string>
+    <string name="reset_game">אפס משחק</string>
+    <string name="end_game">סיים משחק</string>
+    <string name="return_to_game">חזור למשחק</string>
+    <string name="cancel">בטל</string>
+    <string name="save">שמור</string>
+    <string name="enter_participant_name">הכנס שם משתתף</string>
+    <string name="select_number_of_participants">בחר מספר משתתפים</string>
+    <string name="next">הבא</string>
+    <string name="empty_name_error">השם לא יכול להיות ריק</string>
+    <string name="score">ניקוד</string>
+    <string name="choosen_color">הצבע הנבחר</string>
+    <string name="winner_announcement">המנצח: %1$s עם %2$d נקודות!</string>
+    <string name="no_winner">לא ניתן היה לקבוע מנצח.</string>
+    <string name="tie_message">המשחק הסתיים בתיקו!</string>
+</resources>
